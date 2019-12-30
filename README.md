@@ -3,7 +3,11 @@
 A Flutter Project
 
 Weather Simplicity is Beyond
-
+<p align="middle">
+<img src= "https://github.com/bitdvlpr/Erly/blob/master/screenshots/one.png" width="30%" alt = "UI Design" />
+<img src= "https://github.com/bitdvlpr/Erly/blob/master/screenshots/two.png" width="30%" alt = "UI Design"/>
+<img src= "https://github.com/bitdvlpr/Erly/blob/master/screenshots/three.png" width="30%" alt = "UI Design"/>
+</p>
 UI by Taras Migulko <a href="mailto:hey@migulko.cz"> hey@migulko.cz </a>
 
 
