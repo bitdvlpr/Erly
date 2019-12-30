@@ -8,7 +8,7 @@ Weather Simplicity is Beyond
 <img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412568/2.png" width="25%" alt = "UI Design"/>
 <img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412567/3.png" width="25%" alt = "UI Design"/>
 </p>
-UI by Taras Migulko <a href="mailto:hey@migulko.cz"/>
+UI by Taras Migulko <a href="mailto:hey@migulko.cz"> hey@migulko.cz </a>
 
 
 ## Getting Started
