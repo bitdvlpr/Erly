@@ -1,6 +1,13 @@
-# erly
+# Erly
+
+A Flutter Project
 
 Weather Simplicity is Beyond
+
+![UI Design](https://cdn.dribbble.com/users/1998175/videos/29245/dribbble_2.mp4)
+
+UI by Taras Migulko hey@migulko.cz
+
 
 ## Getting Started
 
