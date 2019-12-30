@@ -4,7 +4,7 @@ A Flutter Project
 
 Weather Simplicity is Beyond
 
-![UI Design](https://cdn.dribbble.com/users/1998175/videos/29245/dribbble_2.mp4)
+![UI Design](https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412569/1_.png)(https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412568/2.png)(https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412567/3.png)
 
 UI by Taras Migulko hey@migulko.cz
 
