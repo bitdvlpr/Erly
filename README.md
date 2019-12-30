@@ -3,10 +3,10 @@
 A Flutter Project
 
 Weather Simplicity is Beyond
-<p float="left">
-<img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412569/1_.png" alt = "UI Design" width=450 height=450/>
-<img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412568/2.png" alt = "UI Design" width=450 height=450/>
-<img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412567/3.png" alt = "UI Design" width=450 height=450/>
+<p align="middle">
+<img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412569/1_.png" alt = "UI Design" />
+<img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412568/2.png" alt = "UI Design"/>
+<img src= "https://cdn.dribbble.com/users/1998175/screenshots/6609092/attachments/1412567/3.png" alt = "UI Design"/>
 </p>
 UI by Taras Migulko hey@migulko.cz
 
